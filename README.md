@@ -1,13 +1,14 @@
 # Insurance Data Analysis
 
 ## Overview
-This project analyzes insurance data to uncover key insights and trends. Using **Excel**, **Power BI**, **DAX**, and **Power Query**, the analysis helps identify patterns that can drive informed business decisions.
+This project analyzes insurance data to uncover key insights and trends. Using **Excel**, **Power BI**, **DAX**, **Microsoft SQL Server** and **Power Query**, the analysis helps identify patterns that can drive informed business decisions.
 
 ## Technologies Used
 - **Excel**
 - **Power BI**
 - **DAX**
 - **Power Query**
+- **Microsoft SQL Server**
 
 ## Dataset
 - **insurance.csv**
